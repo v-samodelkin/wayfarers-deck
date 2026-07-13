@@ -9,6 +9,9 @@
     "network": "eip155:8453"
   },
   "storefront": "https://made-particle-issues-adjust.trycloudflare.com/",
+  "marketplaceListings": [
+    "https://www.x402.jobs/resources/made-particle-issues-adjust-trycloudflare-com/wayfarer-s-deck-quest-card-mini-kit-base"
+  ],
   "purchase": {
     "protocol": "x402-v2",
     "method": "GET",
