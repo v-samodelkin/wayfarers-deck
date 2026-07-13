@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0",
+  "name": "Wayfarer's Deck — Quest Card Mini Kit",
+  "version": "1.0.0",
+  "description": "24 editable, print-ready, system-neutral fantasy quest cards with an offline workshop.",
+  "price": {
+    "amount": "5.99",
+    "currency": "USDC",
+    "network": "eip155:8453"
+  },
+  "storefront": "https://made-particle-issues-adjust.trycloudflare.com/",
+  "purchase": {
+    "protocol": "x402-v2",
+    "method": "GET",
+    "url": "https://made-particle-issues-adjust.trycloudflare.com/download",
+    "discoveryUrl": "https://made-particle-issues-adjust.trycloudflare.com/.well-known/x402",
+    "hosting": "beta-ephemeral",
+    "lastVerifiedAt": "2026-07-13T00:05:18Z"
+  },
+  "delivery": {
+    "mimeType": "application/zip",
+    "bytes": 1094153,
+    "sha256": "56cac0a97aebf11d4de2cc4953929716ba438a588ee5990ebc9f6dead432d538"
+  },
+  "contents": {
+    "cards": 24,
+    "categories": 6,
+    "dangerTiers": 4,
+    "formats": ["offline web app", "JSON", "A4 PDF", "PNG"]
+  },
+  "variableCostUsd": 0,
+  "aiDisclosure": "AI-assisted initial text drafting; human-reviewed, balanced, tested, and packaged as one curated product."
+}
