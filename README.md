@@ -8,9 +8,10 @@
 **Current beta endpoint:** https://made-particle-issues-adjust.trycloudflare.com/download  
 **x402 discovery:** https://made-particle-issues-adjust.trycloudflare.com/.well-known/x402  
 **x402.jobs listing:** https://www.x402.jobs/resources/made-particle-issues-adjust-trycloudflare-com/wayfarer-s-deck-quest-card-mini-kit-base  
-**Agent Tools listing:** https://agent-tools.cloud/services/made-particle-issues-adjust-trycloudflare-com-sub74
+**Agent Tools listing:** https://agent-tools.cloud/services/made-particle-issues-adjust-trycloudflare-com-sub74  
+**PayanAgent buy route:** https://payanagent.com/x402/kh79svbs2fvr1k0vahf13690js8aeskv
 
-An x402-capable client is required. Request the download URL, read the x402 v2 payment requirements from the `402 Payment Required` response, settle them, then retry the same GET request with payment proof. The paid response is the ZIP archive. **Do not send USDC directly to the recipient address:** a direct transfer cannot authorize delivery.
+An x402-capable client is required. Request a buy URL, read the x402 v2 payment requirements from the `402 Payment Required` response, settle them, then retry the same request with payment proof. The paid response is either the ZIP archive or a one-time delivery URL, depending on marketplace. **Do not send USDC directly to the recipient address:** a direct transfer cannot authorize delivery.
 
 ## Inside the archive
 
@@ -35,7 +36,7 @@ SHA-256: `56cac0a97aebf11d4de2cc4953929716ba438a588ee5990ebc9f6dead432d538`
 
 ## Beta availability
 
-The purchase endpoint currently runs through a temporary Cloudflare Quick Tunnel. It may change or be briefly unavailable; this repository is the canonical place for the current endpoint. Last verified: **2026-07-13 00:51 UTC**.
+The purchase endpoint currently runs through a temporary Cloudflare Quick Tunnel. It may change or be briefly unavailable; this repository is the canonical place for the current endpoint. Last verified: **2026-07-13 01:02 UTC**.
 
 ## Rights and disclosure
 
