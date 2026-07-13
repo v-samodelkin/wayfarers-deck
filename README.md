@@ -6,7 +6,8 @@
 
 **Price:** $5.99 USDC on Base · one-time purchase  
 **Current beta endpoint:** https://made-particle-issues-adjust.trycloudflare.com/download  
-**x402 discovery:** https://made-particle-issues-adjust.trycloudflare.com/.well-known/x402
+**x402 discovery:** https://made-particle-issues-adjust.trycloudflare.com/.well-known/x402  
+**Verified marketplace listing:** https://www.x402.jobs/resources/made-particle-issues-adjust-trycloudflare-com/wayfarer-s-deck-quest-card-mini-kit-base
 
 An x402-capable client is required. Request the download URL, read the x402 v2 payment requirements from the `402 Payment Required` response, settle them, then retry the same GET request with payment proof. The paid response is the ZIP archive. **Do not send USDC directly to the recipient address:** a direct transfer cannot authorize delivery.
 
@@ -33,7 +34,7 @@ SHA-256: `56cac0a97aebf11d4de2cc4953929716ba438a588ee5990ebc9f6dead432d538`
 
 ## Beta availability
 
-The purchase endpoint currently runs through a temporary Cloudflare Quick Tunnel. It may change or be briefly unavailable; this repository is the canonical place for the current endpoint. Last verified: **2026-07-13 00:05 UTC**.
+The purchase endpoint currently runs through a temporary Cloudflare Quick Tunnel. It may change or be briefly unavailable; this repository is the canonical place for the current endpoint. Last verified: **2026-07-13 00:19 UTC**.
 
 ## Rights and disclosure
 
