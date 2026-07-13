@@ -43,3 +43,7 @@ The purchase endpoint currently runs through a temporary Cloudflare Quick Tunnel
 A completed purchase grants the usage rights in [CUSTOMER-LICENSE.txt](CUSTOMER-LICENSE.txt). Generative AI assisted initial text drafting; the deck was selected, reviewed, balanced, visually designed, tested, and packaged as one curated product. No intentionally borrowed fictional properties are included.
 
 The promotional assets and samples in this repository are copyright © 2026. No license to redistribute this repository as a competing card or prompt product is granted.
+
+## More from Samodelkin Workshop
+
+Need reproducible campaign QR assets instead of a hosted API? [Bulk QR Campaign Pack](https://github.com/v-samodelkin/bulk-qr-campaign-pack) turns up to 1,000 CSV/TSV/JSON rows into an offline SVG/PNG bundle, SHA-256 manifest, and A4 print sheet. [Buy once for 5.99 USDC](https://payanagent.com/x402/kh77cwgt1bbc6kvgmx1x3mz2r58aexnn).
